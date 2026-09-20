@@ -139,3 +139,13 @@ The dataset also does not capture every factor that may affect luxury resale pri
 ## Future Development
 
 Potential extensions include hyperparameter tuning, additional machine-learning algorithms, category-specific pricing models, interactive dashboards, and incorporation of richer product-level attributes.
+
+### Data Source
+
+The dataset used in this project was originally collected from Vestiaire Collective as part of the open-source project *Decision Support for Pricing of Second-Hand Luxury Fashion Items* by GitHub user PeDiot.
+
+Original project: [PeDiot/price_prediction_vestiaire_collective](https://github.com/PeDiot/price_prediction_vestiaire_collective)
+
+The original project collected listing information from Vestiaire Collective through web scraping, including product price, designer, category, condition, material, color, seller location, and engagement information.
+
+This portfolio project uses the dataset as the basis for an independent SQL, exploratory data analysis, and machine-learning workflow. The analysis, visualizations, SQL queries, model implementation, and business interpretation presented here were developed independently for this project.
