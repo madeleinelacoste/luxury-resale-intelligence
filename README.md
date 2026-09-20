@@ -113,10 +113,21 @@ luxury-resale-intelligence/
 ├── sql/
 │   └── vestiaire_analysis.sql
 │
+├── presentation/
+│   └── the_realreal_marketing_analysis.pptx
+│
 └── README.md
 ```
 
 ## Project Components
+
+### Marketing & Strategy Analysis
+
+[`presentation/the_realreal_marketing_analysis.pptx`](presentation/the_realreal_marketing_analysis.pptx)
+
+A strategic analysis of The RealReal examining the luxury resale business model, target customer ecosystem, competitive positioning, pricing strategy, trust and authentication, SWOT analysis, and potential growth opportunities.
+
+This strategic component provides the business context for the quantitative portion of the project, connecting luxury resale strategy with marketplace data analysis and predictive modeling.
 
 ### Python & Machine Learning
 
