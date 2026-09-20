@@ -87,6 +87,26 @@ Designer was the strongest predictor by a substantial margin, highlighting the i
 
 Feature importance reflects predictive usefulness within this model and does not establish causal effects.
 
+## Selected Visualizations
+
+### Designer Pricing in the Handbag Market
+
+Among designers with at least 20 handbag listings, Chanel and Hermès had substantially higher median listing prices than other brands in the sample.
+
+![Top Designers by Median Bag Listing Price](visuals/designer_median_prices.png)
+
+### What Characteristics Matter Most?
+
+Random Forest feature importance suggests that designer and product sub-category provided the most predictive information for listing prices within the model.
+
+![Relative Importance of Listing Characteristics](visuals/feature_importance.png)
+
+### Model Performance
+
+The Random Forest captured much of the pricing structure among typical listings but had greater difficulty predicting rare, extremely high-priced items.
+
+![Random Forest Actual vs Predicted Listing Prices](visuals/actual_vs_predicted.png)
+
 ## Business Takeaways
 
 The analysis suggests that luxury resale pricing is shaped by a combination of **brand, product attributes, and marketplace engagement**.
